@@ -1,0 +1,7 @@
+setup.py
+cv_cnn.egg-info/PKG-INFO
+cv_cnn.egg-info/SOURCES.txt
+cv_cnn.egg-info/dependency_links.txt
+cv_cnn.egg-info/requires.txt
+cv_cnn.egg-info/top_level.txt
+src/__init__.py
